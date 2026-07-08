@@ -1,0 +1,15 @@
+{
+  "name": "generatore-nomi-file",
+  "version": "1.0.0",
+  "description": "Generatore di nomi per file da regole descrittive in italiano",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test/test.js"
+  },
+  "keywords": ["file-naming", "italian", "generator"],
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
